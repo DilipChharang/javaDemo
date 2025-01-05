@@ -1,8 +1,0 @@
-class pw{
-            public void m1()
-               { a=24;
-                  b=12;
-                  c=a+b;
-                
-                    }
-}
